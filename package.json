@@ -1,0 +1,26 @@
+{
+  "name": "recusandaeea",
+  "description": "Framework-agnostic, micro-library for getting stack traces in all environments",
+  "author": "GunnerMonahan",
+  "version": "1.0.0",
+  "keywords": [
+    "saepe",
+    "perspiciatis",
+    "framework-agnostic",
+    "voluptatem",
+    "browser"
+  ],
+  "homepage": "https://github.com/AidenKuhn/recusandaeea.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AidenKuhn/recusandaeea.git"
+  },
+  "main": "./stacktrace.js",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jshint": "0.9.x"
+  }
+}
